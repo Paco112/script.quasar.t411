@@ -52,7 +52,7 @@ RESOLUTION_4K2K = 5
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:54.0) Gecko/20100101 Firefox/54.0"
 
 if not _API_ or _API_ == 'https://api.t411.ch' or _API_ == 'https://api.t411.li':
-    new_url = 'https://api.t411.ai'
+    new_url = 'https://api.t411.al'
     provider.ADDON.setSetting("base_url", new_url)
     _API_ = new_url
 

@@ -2,7 +2,7 @@
 <settings>
     <category label="Compte T411">
         <setting label="Compte T411" type="lsep"/>
-        <setting label="URL" type="text" id="base_url" default="https://api.t411.li"/>
+        <setting label="URL" type="text" id="base_url" default="https://api.t411.al"/>
         <setting label="Login" type="text" id="username" default=""/>
         <setting label="Password" type="text" id="password" default="" option="hidden"/>
         <setting label="Options avancées" type="lsep"/>

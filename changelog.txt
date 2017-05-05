@@ -1,3 +1,6 @@
+Version 1.6.1 :
+- Mise à jour url API de .ai vers .al
+
 Version 1.6.0 :
 - Major Optimisation and fix stability
 - Add languages and years tags

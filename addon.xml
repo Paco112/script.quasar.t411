@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.quasar.t411-paco112" name="Quasar Paco112 [COLOR FF18F6F3]t411[/COLOR] Provider" version="1.6.0" provider-name="Paco112">
+<addon id="script.quasar.t411-paco112" name="Quasar Paco112 [COLOR FF18F6F3]t411[/COLOR] Provider" version="1.6.1" provider-name="Paco112">
   <requires>
     <import addon="plugin.video.quasar" version="0.9.42"/>
   </requires>
